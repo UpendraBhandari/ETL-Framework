@@ -1,0 +1,19 @@
+'''
+Created on 29 Dec 2016
+
+@author: 611370417
+'''
+
+import cx_Oracle
+
+def make_Connection() :
+    con = cx_Oracle.connect('sparkmaya/sparkmaya@127.0.0.1/XE')
+    print con.version
+
+    con.close()
+
+
+
+
+if __name__ == '__main__':
+    make_Connection()

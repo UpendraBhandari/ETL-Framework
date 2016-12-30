@@ -1,0 +1,51 @@
+'''
+Created on 30 Dec 2016
+
+@author: 611370417
+'''
+import cx_Oracle
+
+
+def make_Connection() :#
+    try:
+        conn = cx_Oracle.connect('sparkmaya/sparkmaya@127.0.0.1/XE')
+        get_tables_metadata(conn)
+        conn.close()
+    except cx_Oracle.DatabaseError,exception:
+        print(exception.message)
+        print("Failed to connect to SparkMaya Master Database")
+
+
+def get_tables_metadata(conn,connection_id=1):
+    
+    print 'Inside get_tables_metadata'
+    cur = conn.cursor()
+    connection = cur.execute('select * from connection_detail where id=%s' %(connection_id))    
+        
+    for connect in connection:
+        try:
+            print connect[4],connect[5],connect[9]
+            entryconn = cx_Oracle.connect(connect[4],connect[5],connect[9])
+            print "Connection Valid. Fetching table metadata"
+            entrycurr = entryconn.cursor()
+            resultset = entrycurr.execute("select table_name from dba_tables where owner='%s'" %(connect[6]))
+            
+            for result in resultset:
+                print result[0]
+                entrycurr.execute("INSERT INTO PRIME_METADATA_TABLES (CONNECTION_ID,TABLE_NAME) VALUES (%s,'%s')" %(connection_id, result[0]))
+                 
+            
+            entrycurr.close()
+            entryconn.commit()
+            entryconn.close()
+            
+        except cx_Oracle.DatabaseError, exception:
+            print 'Error in get_table_metadata'
+            print(exception.message)
+    
+    cur.close()
+    
+    
+
+if __name__ == '__main__':
+    make_Connection()

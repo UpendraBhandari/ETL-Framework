@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spark-etl/ingestionFramework/data-priming/primeMetadataTables.py&apos; to &apos;primeSchemaMetadata.py&apos;" description="Rename resource &apos;primeMetadataTables.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ingestionFramework/data-priming/primeMetadataTables.py" name="primeSchemaMetadata.py" stamp="1483065457191" updateReferences="true"/>
+</session>
