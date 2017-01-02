@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_oFUjkc4YEea3dPZ0-TayzA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_oFUjks4YEea3dPZ0-TayzA" bindingContexts="_oFUjmM4YEea3dPZ0-TayzA">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;primeMetadataTables.py&quot; tooltip=&quot;spark-etl/ingestionFramework/data-priming/primeMetadataTables.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/data-priming/primeMetadataTables.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;connectionDetail.py&quot; tooltip=&quot;spark-etl/ingestionFramework/data-priming/connectionDetail.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/data-priming/connectionDetail.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; tooltip=&quot;spark-etl/ingestionFramework/__init__.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/__init__.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;executeCommand.py&quot; tooltip=&quot;spark-etl/ingestionFramework/protos/executeCommand.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/protos/executeCommand.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;primeSchemaMetadata.py&quot; tooltip=&quot;spark-etl/ingestionFramework/data-priming/primeSchemaMetadata.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/data-priming/primeSchemaMetadata.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;primeMetadataTables.py&quot; tooltip=&quot;spark-etl/ingestionFramework/data-priming/primeMetadataTables.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/data-priming/primeMetadataTables.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;connectionDetail.py&quot; tooltip=&quot;spark-etl/ingestionFramework/data-priming/connectionDetail.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/data-priming/connectionDetail.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; tooltip=&quot;spark-etl/ingestionFramework/__init__.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/__init__.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_oFUjks4YEea3dPZ0-TayzA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_ovs9U84YEea3dPZ0-TayzA" label="%trimmedwindow.label.eclipseSDK" x="130" y="130" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
+    <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
+    <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1483055193512"/>
     <tags>topLevel</tags>
     <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_ovs9U84YEea3dPZ0-TayzA" selectedElement="_ovs9VM4YEea3dPZ0-TayzA" horizontal="true">
@@ -94,17 +96,17 @@
           <tags>persp.showIn:org.eclipse.ui.views.ResourceNavigator</tags>
           <tags>persp.showIn:org.python.pydev.navigator.view</tags>
           <tags>persp.showIn:org.eclipse.ui.views.ContentOutline</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_ytTO4c4YEea3dPZ0-TayzA" selectedElement="_ytTO4s4YEea3dPZ0-TayzA" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_ytTO4c4YEea3dPZ0-TayzA" selectedElement="_ytTO5M4YEea3dPZ0-TayzA" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_ytTO4s4YEea3dPZ0-TayzA" elementId="topLeft" containerData="2600" selectedElement="_ytTO484YEea3dPZ0-TayzA">
               <tags>newtablook</tags>
-              <tags>active</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_ytTO484YEea3dPZ0-TayzA" elementId="org.python.pydev.navigator.view" ref="_ytKE8M4YEea3dPZ0-TayzA"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_ytTO5M4YEea3dPZ0-TayzA" containerData="7400" selectedElement="_ytTO5c4YEea3dPZ0-TayzA">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_ytTO5M4YEea3dPZ0-TayzA" containerData="7400" selectedElement="_ytTO5s4YEea3dPZ0-TayzA">
               <children xsi:type="advanced:Placeholder" xmi:id="_ytTO5c4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_pK0zEM4YEea3dPZ0-TayzA"/>
               <children xsi:type="basic:PartStack" xmi:id="_ytTO5s4YEea3dPZ0-TayzA" elementId="bottom" containerData="2500" selectedElement="_ytTO6M4YEea3dPZ0-TayzA">
                 <tags>newtablook</tags>
                 <tags>org.eclipse.e4.secondaryDataStack</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ytTO584YEea3dPZ0-TayzA" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_ytKE8c4YEea3dPZ0-TayzA"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ytTO6M4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.console.ConsoleView" ref="_pK99Cc4YEea3dPZ0-TayzA"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_ytTO6c4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_ytKE8s4YEea3dPZ0-TayzA"/>
@@ -134,10 +136,22 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_pK0zEM4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.editorss" selectedElement="_pK0zEc4YEea3dPZ0-TayzA">
-      <children xsi:type="basic:PartStack" xmi:id="_pK0zEc4YEea3dPZ0-TayzA" elementId="org.eclipse.e4.primaryDataStack">
+      <children xsi:type="basic:PartStack" xmi:id="_pK0zEc4YEea3dPZ0-TayzA" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_v7HJIM7eEea_RbW-WsrxjQ">
         <tags>newtablook</tags>
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <children xsi:type="basic:Part" xmi:id="_YxGgoM7eEea_RbW-WsrxjQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="primeSchemaMetadata" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;primeSchemaMetadata.py&quot; partName=&quot;primeSchemaMetadata&quot; title=&quot;primeSchemaMetadata&quot; tooltip=&quot;spark-etl/ingestionFramework/data-priming/primeSchemaMetadata.py&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/spark-etl/ingestionFramework/data-priming/primeSchemaMetadata.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;884&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.python.pydev.editor.PythonEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_v7HJIM7eEea_RbW-WsrxjQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="executeCommand" iconURI="platform:/plugin/org.python.pydev/icons/python_file.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;executeCommand.py&quot; partName=&quot;executeCommand&quot; title=&quot;executeCommand&quot; tooltip=&quot;spark-etl/ingestionFramework/protos/executeCommand.py&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/spark-etl/ingestionFramework/protos/executeCommand.py&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;160&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.python.pydev.editor.PythonEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_pK99Bs4YEea3dPZ0-TayzA" elementId="org.eclipse.jdt.ui.PackageExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Package Explorer" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/package.gif" closeable="true">
@@ -167,6 +181,8 @@
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <tags>highlighted</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_sWMGYM4ZEea3dPZ0-TayzA" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -183,11 +199,9 @@
       <toolbar xmi:id="_pcxesc4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.views.ContentOutline"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_ytKE8M4YEea3dPZ0-TayzA" elementId="org.python.pydev.navigator.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="PyDev Package Explorer" iconURI="platform:/plugin/org.python.pydev/icons/pydev_package_explorer.gif" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework/data-priming&quot;/>&#xD;&#xA;&lt;selected IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1483055193512&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework/data-priming&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework/protos&quot;/>&#xD;&#xA;&lt;selected IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework/protos/executeCommand.py&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:PyDev</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_ytv60M4YEea3dPZ0-TayzA" elementId="org.python.pydev.navigator.view">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -223,7 +237,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ow5QIs4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ow5QNM4YEea3dPZ0-TayzA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_oGMtbs4YEea3dPZ0-TayzA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_X9yNUM7eEea_RbW-WsrxjQ" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_oGMtbs4YEea3dPZ0-TayzA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ow5QI84YEea3dPZ0-TayzA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -244,7 +258,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ow5QJ84YEea3dPZ0-TayzA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ow5QPs4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_oGLfWs4YEea3dPZ0-TayzA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_X947Ac7eEea_RbW-WsrxjQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_oGLfWs4YEea3dPZ0-TayzA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ow5QKM4YEea3dPZ0-TayzA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

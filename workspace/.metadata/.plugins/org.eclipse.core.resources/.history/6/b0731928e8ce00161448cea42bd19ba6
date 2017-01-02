@@ -1,0 +1,12 @@
+'''
+Created on 30 Dec 2016
+
+@author: 611370417
+'''
+
+
+import subprocess
+
+
+if __name__ == '__main__':
+    subprocess.call("dir", shell=True)
