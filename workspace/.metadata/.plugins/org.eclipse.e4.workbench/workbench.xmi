@@ -3,9 +3,11 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;primeMetadataTables.py&quot; tooltip=&quot;spark-etl/ingestionFramework/data-priming/primeMetadataTables.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/data-priming/primeMetadataTables.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;connectionDetail.py&quot; tooltip=&quot;spark-etl/ingestionFramework/data-priming/connectionDetail.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/data-priming/connectionDetail.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; tooltip=&quot;spark-etl/ingestionFramework/__init__.py&quot;>&#xD;&#xA;&lt;persistable path=&quot;/spark-etl/ingestionFramework/__init__.py&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_oFUjks4YEea3dPZ0-TayzA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_ovs9U84YEea3dPZ0-TayzA" label="%trimmedwindow.label.eclipseSDK" x="130" y="130" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_oFUjks4YEea3dPZ0-TayzA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_ovs9U84YEea3dPZ0-TayzA" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
+    <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
+    <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1483055193512"/>
     <tags>topLevel</tags>
     <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_ovs9U84YEea3dPZ0-TayzA" selectedElement="_ovs9VM4YEea3dPZ0-TayzA" horizontal="true">
@@ -183,7 +185,7 @@
       <toolbar xmi:id="_pcxesc4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.views.ContentOutline"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_ytKE8M4YEea3dPZ0-TayzA" elementId="org.python.pydev.navigator.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="PyDev Package Explorer" iconURI="platform:/plugin/org.python.pydev/icons/pydev_package_explorer.gif" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework/data-priming&quot;/>&#xD;&#xA;&lt;selected IMemento.internal.id=&quot;C:/Users/611370417/Documents/GitHub/ETL-Framework/workspace/spark-etl&quot;/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1483055193512&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/uppi/Documents/GitHub/ETL-Framework/workspace/spark-etl&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/uppi/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework&quot;/>&#xD;&#xA;&lt;expanded IMemento.internal.id=&quot;C:/Users/uppi/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework/data-priming&quot;/>&#xD;&#xA;&lt;selected IMemento.internal.id=&quot;C:/Users/uppi/Documents/GitHub/ETL-Framework/workspace/spark-etl/ingestionFramework/protos&quot;/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:PyDev</tags>
       <tags>active</tags>
@@ -223,7 +225,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ow5QIs4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ow5QNM4YEea3dPZ0-TayzA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_oGMtbs4YEea3dPZ0-TayzA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_q7bFl87qEeav4I7g679OLw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_oGMtbs4YEea3dPZ0-TayzA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ow5QI84YEea3dPZ0-TayzA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -244,7 +246,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ow5QJ84YEea3dPZ0-TayzA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_ow5QPs4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_oGLfWs4YEea3dPZ0-TayzA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_q7k2mc7qEeav4I7g679OLw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_oGLfWs4YEea3dPZ0-TayzA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ow5QKM4YEea3dPZ0-TayzA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -315,10 +317,8 @@
   <bindingTables xmi:id="_oG9iUM4YEea3dPZ0-TayzA" elementId="org.eclipse.ui.contexts.window" bindingContext="_oFUjmc4YEea3dPZ0-TayzA">
     <bindings xmi:id="_oHBMsM4YEea3dPZ0-TayzA" keySequence="CTRL+B" command="_oGDjbM4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHDB4s4YEea3dPZ0-TayzA" keySequence="ALT+ARROW_RIGHT" command="_oGGm4s4YEea3dPZ0-TayzA"/>
-    <bindings xmi:id="_oHDo8M4YEea3dPZ0-TayzA" keySequence="ALT+CTRL+SHIFT+ARROW_RIGHT" command="_oGKRJc4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHFeI84YEea3dPZ0-TayzA" keySequence="CTRL+SHIFT+A" command="_oGK4X84YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHGFMM4YEea3dPZ0-TayzA" keySequence="ALT+CTRL+SHIFT+A" command="_oGLfNc4YEea3dPZ0-TayzA"/>
-    <bindings xmi:id="_oHGFMc4YEea3dPZ0-TayzA" keySequence="ALT+CTRL+SHIFT+ARROW_UP" command="_oGKROM4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHGFNM4YEea3dPZ0-TayzA" keySequence="ALT+ARROW_LEFT" command="_oGDjhM4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHHTVM4YEea3dPZ0-TayzA" keySequence="ALT+SHIFT+D Q" command="_oGH07M4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHHTVc4YEea3dPZ0-TayzA" keySequence="ALT+SHIFT+D O" command="_oGJqBs4YEea3dPZ0-TayzA"/>
@@ -340,7 +340,6 @@
     <bindings xmi:id="_oHOBA84YEea3dPZ0-TayzA" keySequence="CTRL+G" command="_oGBuNs4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHOBBc4YEea3dPZ0-TayzA" keySequence="ALT+CTRL+G" command="_oGK4Qs4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHOoEs4YEea3dPZ0-TayzA" keySequence="CTRL+SHIFT+G" command="_oGN7js4YEea3dPZ0-TayzA"/>
-    <bindings xmi:id="_oHOoFc4YEea3dPZ0-TayzA" keySequence="ALT+SHIFT+H" command="_oGGmts4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHOoFs4YEea3dPZ0-TayzA" keySequence="CTRL+E" command="_oGGmvc4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHPPIM4YEea3dPZ0-TayzA" keySequence="F11" command="_oGNUjs4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHPPIc4YEea3dPZ0-TayzA" keySequence="DEL" command="_oGExis4YEea3dPZ0-TayzA"/>
@@ -403,7 +402,6 @@
     <bindings xmi:id="_oHkmWM4YEea3dPZ0-TayzA" keySequence="CTRL+_" command="_oGF_wc4YEea3dPZ0-TayzA">
       <parameters xmi:id="_oHlNYM4YEea3dPZ0-TayzA" elementId="Splitter.isHorizontal" name="Splitter.isHorizontal" value="true"/>
     </bindings>
-    <bindings xmi:id="_oHlNZM4YEea3dPZ0-TayzA" keySequence="ALT+CTRL+SHIFT+ARROW_DOWN" command="_oGOihM4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHl0cs4YEea3dPZ0-TayzA" keySequence="ALT+SHIFT+C" command="_oGMGX84YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHmbgM4YEea3dPZ0-TayzA" keySequence="CTRL+SHIFT+B" command="_oGExkc4YEea3dPZ0-TayzA"/>
     <bindings xmi:id="_oHmbg84YEea3dPZ0-TayzA" keySequence="ALT+SHIFT+T D" command="_oGJqFM4YEea3dPZ0-TayzA"/>

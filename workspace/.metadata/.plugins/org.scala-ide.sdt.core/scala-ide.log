@@ -128,3 +128,5 @@ WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0
 2016-12-29 23:48:03,282 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\sunmscapi.jar'
 2016-12-29 23:48:03,298 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\sunpkcs11.jar'
 2016-12-29 23:48:03,329 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\zipfs.jar'
+2016-12-31 05:21:57,093 ERROR [main] - System.err - Dec 31, 2016 5:21:57 AM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
