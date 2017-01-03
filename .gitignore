@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.log
+*.pydevinfo
+workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/spark-etl/org.python.pydev/0.v1_astdelta
+*.xmi
